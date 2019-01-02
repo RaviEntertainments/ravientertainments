@@ -1,33 +1,11 @@
 <photographyapps>  
   
-      <photography>
-<apptitle>New Year Photo Frames</apptitle>
-<applink>market://details?id=com.happyentertainments.editor.newyear</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/newyearpf.png</appicon>
-</photography>
-  
-    <photography>
-<apptitle>New Year Clock</apptitle>
-<applink>market://details?id=com.happyentertainments.newyearclock</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/newyearclock.png</appicon>
-</photography>
-   
-<photography>
-<apptitle>New Year Live Wallpapers</apptitle>
-<applink>market://details?id=com.happyentertainments.newyearlivewallpaper</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/newyearlw.png</appicon>
-</photography>
+
    
  <photography>
 <apptitle>Sankranti Photo Editor</apptitle>
 <applink>market://details?id=com.happyentertainments.editor.sankranti</applink>
 <appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/sankrantipf.png</appicon>
-</photography>
-  
-<photography>
-<apptitle>Jummah Mubarak Editor</apptitle>
-<applink>market://details?id=com.happyentertainments.editor.jummahmubarak</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/jummahpf.png</appicon>
 </photography>
    
  <photography>
@@ -47,7 +25,11 @@
 <applink>market://details?id=com.happyentertainments.editor.ramnavami</applink>
 <appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/ramnavamipf.png</appicon>
 </photography>
-     
+    <photography>
+<apptitle>Jummah Mubarak Editor</apptitle>
+<applink>market://details?id=com.happyentertainments.editor.jummahmubarak</applink>
+<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/jummahpf.png</appicon>
+</photography> 
       <photography>
 <apptitle>Shivaratri Photo Frames</apptitle>
 <applink>market://details?id=com.happyentertainments.editor.shivaratri</applink>
