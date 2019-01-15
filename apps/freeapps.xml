@@ -13,7 +13,18 @@
 <applink>market://details?id=com.happyentertainments.editor.pongal</applink>
 <appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/pongalpf.png</appicon>
 </photography>
+  
+ <photography>
+<apptitle>Republic Day Photo Frames</apptitle>
+<applink>market://details?id=com.happyentertainments.editor.republicday</applink>
+<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/republicdaypf.png</appicon>
+</photography>
 
+   <photography>
+<apptitle>Indian Flag Letter Photo</apptitle>
+<applink>market://details?id=com.happyentertainments.editor.indiaflagletter</applink>
+<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/indianflagpf.png</appicon>
+</photography>
    <photography>
 <apptitle>Pongal Live Wallpapers</apptitle>
 <applink>market://details?id=com.happyentertainments.pongallivewallpaper</applink>
@@ -25,6 +36,7 @@
 <applink>market://details?id=com.happyentertainments.editor.ramnavami</applink>
 <appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/ramnavamipf.png</appicon>
 </photography>
+  
     <photography>
 <apptitle>Jummah Mubarak Editor</apptitle>
 <applink>market://details?id=com.happyentertainments.editor.jummahmubarak</applink>
@@ -49,17 +61,7 @@
 </photography>
       
    
- <photography>
-<apptitle>Republic Day Photo Frames</apptitle>
-<applink>market://details?id=com.happyentertainments.editor.republicday</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/republicdaypf.png</appicon>
-</photography>
 
-   <photography>
-<apptitle>Indian Flag Letter Photo</apptitle>
-<applink>market://details?id=com.happyentertainments.editor.indiaflagletter</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/indianflagpf.png</appicon>
-</photography>
 
      <photography>
 <apptitle>Holi Photo Frames</apptitle>
