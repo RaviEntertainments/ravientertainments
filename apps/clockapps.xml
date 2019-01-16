@@ -3,79 +3,43 @@
 
    
  <photography>
-<apptitle>Sankranti Photo Editor</apptitle>
-<applink>market://details?id=com.happyentertainments.editor.sankranti</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/sankrantipf.png</appicon>
+<apptitle>Shivaji Clock</apptitle>
+<applink>market://details?id=com.happyentertainments.shivajiclock</applink>
+<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/shivajiclock.png</appicon>
 </photography>
    
  <photography>
-<apptitle>Pongal Photo Frames</apptitle>
-<applink>market://details?id=com.happyentertainments.editor.pongal</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/pongalpf.png</appicon>
+<apptitle>Swami Vivekananda Clock</apptitle>
+<applink>market://details?id=com.happyentertainments.vivekanandaclock</applink>
+<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/vivekanandaclock.png</appicon>
 </photography>
   
  <photography>
-<apptitle>Republic Day Photo Frames</apptitle>
-<applink>market://details?id=com.happyentertainments.editor.republicday</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/republicdaypf.png</appicon>
+<apptitle>Ambedkar Clock</apptitle>
+<applink>market://details?id=com.happyentertainments.ambedkarclock</applink>
+<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/ambedkarclock.png</appicon>
 </photography>
 
    <photography>
-<apptitle>Indian Flag Letter Photo</apptitle>
-<applink>market://details?id=com.happyentertainments.editor.indiaflagletter</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/indianflagpf.png</appicon>
+<apptitle>Lord Krishna Clock</apptitle>
+<applink>market://details?id=com.happyentertainments.krishnaclock</applink>
+<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/janmashtamiclock.png</appicon>
 </photography>
+  
    <photography>
-<apptitle>Pongal Live Wallpapers</apptitle>
-<applink>market://details?id=com.happyentertainments.pongallivewallpaper</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/pongallw.png</appicon>
+<apptitle>Hanuman Clocks</apptitle>
+<applink>market://details?id=com.happyentertainments.hanumanclock</applink>
+<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/hanumanclock.png</appicon>
 </photography>
 
    <photography>
-<apptitle>Ram Navami Photo Frames</apptitle>
-<applink>market://details?id=com.happyentertainments.editor.ramnavami</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/ramnavamipf.png</appicon>
+<apptitle>Saibaba Clock</apptitle>
+<applink>market://details?id=com.happyentertainments.saibabaclock</applink>
+<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/saibabaclock.png</appicon>
 </photography>
   
-    <photography>
-<apptitle>Jummah Mubarak Editor</apptitle>
-<applink>market://details?id=com.happyentertainments.editor.jummahmubarak</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/jummahpf.png</appicon>
-</photography> 
-      <photography>
-<apptitle>Shivaratri Photo Frames</apptitle>
-<applink>market://details?id=com.happyentertainments.editor.shivaratri</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/shivaratripf.png</appicon>
-</photography>
-
-  <photography>
-<apptitle>Lord Shiva Live Wallpaper</apptitle>
-<applink>market://details?id=com.happyentertainments.lordshivalivewallpaper</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/shivalw.png</appicon>
-</photography>
-  
-  <photography>
-<apptitle>Ram Navami Live Wallpapers</apptitle>
-<applink>market://details?id=com.happyentertainments.ramnavamilivalivewallpaper</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/ramanavamilw.png</appicon>
-</photography>
-      
-   
-
-
-     <photography>
-<apptitle>Holi Photo Frames</apptitle>
-<applink>market://details?id=com.happyentertainments.editor.holi</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/holipf.png</appicon>
-</photography>
-  
-     <photography>
-<apptitle>Holi Live Wallpapers</apptitle>
-<applink>market://details?id=com.happyentertainments.holilivewallpaper</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/holilw.png</appicon>
-</photography>
-   
-
+    
+ 
    
 </photographyapps>
 
