@@ -1,19 +1,5 @@
 <photographyapps>  
   
-
-   
- <photography>
-<apptitle>Sankranti Photo Editor</apptitle>
-<applink>market://details?id=com.happyentertainments.editor.sankranti</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/sankrantipf.png</appicon>
-</photography>
-   
- <photography>
-<apptitle>Pongal Photo Frames</apptitle>
-<applink>market://details?id=com.happyentertainments.editor.pongal</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/pongalpf.png</appicon>
-</photography>
-  
  <photography>
 <apptitle>Republic Day Photo Frames</apptitle>
 <applink>market://details?id=com.happyentertainments.editor.republicday</applink>
@@ -24,11 +10,6 @@
 <apptitle>Indian Flag Letter Photo</apptitle>
 <applink>market://details?id=com.happyentertainments.editor.indiaflagletter</applink>
 <appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/indianflagpf.png</appicon>
-</photography>
-   <photography>
-<apptitle>Pongal Live Wallpapers</apptitle>
-<applink>market://details?id=com.happyentertainments.pongallivewallpaper</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/pongallw.png</appicon>
 </photography>
 
    <photography>
@@ -60,9 +41,6 @@
 <appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/ramanavamilw.png</appicon>
 </photography>
       
-   
-
-
      <photography>
 <apptitle>Holi Photo Frames</apptitle>
 <applink>market://details?id=com.happyentertainments.editor.holi</applink>
