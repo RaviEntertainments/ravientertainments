@@ -1,28 +1,6 @@
 <photographyapps>  
   
- <photography>
-<apptitle>Republic Day Photo Frames</apptitle>
-<applink>market://details?id=com.happyentertainments.editor.republicday</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/republicdaypf.png</appicon>
-</photography>
 
-   <photography>
-<apptitle>Indian Flag Letter Photo</apptitle>
-<applink>market://details?id=com.happyentertainments.editor.indiaflagletter</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/indianflagpf.png</appicon>
-</photography>
-
-   <photography>
-<apptitle>Ram Navami Photo Frames</apptitle>
-<applink>market://details?id=com.happyentertainments.editor.ramnavami</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/ramnavamipf.png</appicon>
-</photography>
-  
-    <photography>
-<apptitle>Jummah Mubarak Editor</apptitle>
-<applink>market://details?id=com.happyentertainments.editor.jummahmubarak</applink>
-<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/jummahpf.png</appicon>
-</photography> 
       <photography>
 <apptitle>Shivaratri Photo Frames</apptitle>
 <applink>market://details?id=com.happyentertainments.editor.shivaratri</applink>
@@ -34,6 +12,18 @@
 <applink>market://details?id=com.happyentertainments.lordshivalivewallpaper</applink>
 <appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/shivalw.png</appicon>
 </photography>
+  
+   <photography>
+<apptitle>Ram Navami Photo Frames</apptitle>
+<applink>market://details?id=com.happyentertainments.editor.ramnavami</applink>
+<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/ramnavamipf.png</appicon>
+</photography>
+  
+    <photography>
+<apptitle>Jummah Mubarak Editor</apptitle>
+<applink>market://details?id=com.happyentertainments.editor.jummahmubarak</applink>
+<appicon>https://raw.githubusercontent.com/RaviEntertainments/ravientertainments/master/icons/jummahpf.png</appicon>
+</photography> 
   
   <photography>
 <apptitle>Ram Navami Live Wallpapers</apptitle>
